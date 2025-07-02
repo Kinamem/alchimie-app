@@ -1,4 +1,4 @@
-# 🧪 Alchimie App — Version 1.0.0
+# 🧪 Alchimie App — Version 1.0.6
 
 Bienvenue dans la première version publique de **Alchimie App**, un outil interactif de gestion de potions pour vos aventures de jeu de rôle ou créations magiques !
 

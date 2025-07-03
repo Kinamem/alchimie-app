@@ -51,7 +51,7 @@ C:\Users\<VOTRE_NOM>\AppData\Roaming\alchimie_app\
 
 ---
 
-pour la telecharger aller dans la section relase , et telecharge la dernier version :) 
+pour la telecharger aller dans la section Releases  , et telecharge la dernier version :) 
 
 Merci de tester **Alchimie App** !  
 Pour toute suggestion, retour, ou potion explosive, contactez-nous 🧪
